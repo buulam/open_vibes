@@ -1,5 +1,4 @@
 # About Me
-Vibe with OpenAI via API
 
 Follow me for vibes
 
